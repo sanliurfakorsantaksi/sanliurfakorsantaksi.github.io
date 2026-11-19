@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Şanlıurfa Korsan Taksi | GAP Havalimanı ve Göbeklitepe</title>
+  <link href="https://sanliurfakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://sanliurfakorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://sanliurfakorsantaksi.github.io/</id>
+  <updated>2026-11-19T19:59:18.344Z</updated>
+  <author><name>Şanlıurfa Korsan Taksi</name></author>
+  <entry>
+    <title>Şanlıurfa Korsan Taksi | GAP Havalimanı ve Göbeklitepe</title>
+    <link href="https://sanliurfakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://sanliurfakorsantaksi.github.io/</id>
+    <updated>2026-11-19T19:59:18.344Z</updated>
+    <summary>Şanlıurfa korsan taksi hattı: GAP Havalimanı Haliliye'den 38 km, Göbeklitepe ve Karahantepe, Balıklıgöl, Harran, Halfeti, Birecik ve Siverek yolu. 7/24.</summary>
+  </entry>
+</feed>
